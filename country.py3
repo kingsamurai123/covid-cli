@@ -24,5 +24,4 @@ for each in r['Countries']:
 				country, TotalConfirmed, TotalDeaths, TotalRecovered, NewConfirmed, NewRecovered, NewDeaths
 			)
 		)
-	# print(each['CountryCode'])
 
