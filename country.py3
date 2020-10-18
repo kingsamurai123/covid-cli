@@ -13,14 +13,15 @@ r = response.json()
 
 for each in r['Countries']:
 	if each['CountryCode'] == address:
+		country = each['Country']
 		TotalDeaths = each['TotalDeaths']
 		NewConfirmed = each['NewConfirmed']
 		NewRecovered = each['NewRecovered']
 		NewDeaths = each['NewDeaths']
 		TotalRecovered = each['TotalRecovered']
 		TotalConfirmed = each['TotalConfirmed']
-		print("COVID DATA AROUND THE WORLD: \nTotalCases     = {} \nTotalDeaths    = {} \nTotalRecovered = {} \nTodayCases     = {} \nTodayRecovered = {} \nTodayDeaths    = {}".format(
-			TotalConfirmed, TotalDeaths, TotalRecovered, NewConfirmed, NewRecovered, NewDeaths
+		print("COVID CASES IN {} : \nTotalCases     = {} \nTotalDeaths    = {} \nTotalRecovered = {} \nTodayCases     = {} \nTodayRecovered = {} \nTodayDeaths    = {}".format(
+				country, TotalConfirmed, TotalDeaths, TotalRecovered, NewConfirmed, NewRecovered, NewDeaths
 			)
 		)
 	# print(each['CountryCode'])
