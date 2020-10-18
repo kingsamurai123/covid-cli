@@ -1,0 +1,744 @@
+CountryName = Aruba
+CountryCode = AW
+
+CountryName = Iran, Islamic Republic of
+CountryCode = IR
+
+CountryName = Macedonia, Republic of
+CountryCode = MK
+
+CountryName = Samoa
+CountryCode = WS
+
+CountryName = Seychelles
+CountryCode = SC
+
+CountryName = Bolivia
+CountryCode = BO
+
+CountryName = Portugal
+CountryCode = PT
+
+CountryName = Rwanda
+CountryCode = RW
+
+CountryName = Belgium
+CountryCode = BE
+
+CountryName = Croatia
+CountryCode = HR
+
+CountryName = El Salvador
+CountryCode = SV
+
+CountryName = Gabon
+CountryCode = GA
+
+CountryName = Ghana
+CountryCode = GH
+
+CountryName = Guatemala
+CountryCode = GT
+
+CountryName = Latvia
+CountryCode = LV
+
+CountryName = Cocos (Keeling) Islands
+CountryCode = CC
+
+CountryName = Philippines
+CountryCode = PH
+
+CountryName = Zimbabwe
+CountryCode = ZW
+
+CountryName = Madagascar
+CountryCode = MG
+
+CountryName = Namibia
+CountryCode = NA
+
+CountryName = Nauru
+CountryCode = NR
+
+CountryName = Chad
+CountryCode = TD
+
+CountryName = Cyprus
+CountryCode = CY
+
+CountryName = Korea (South)
+CountryCode = KR
+
+CountryName = Luxembourg
+CountryCode = LU
+
+CountryName = Togo
+CountryCode = TG
+
+CountryName = Niue
+CountryCode = NU
+
+CountryName = French Southern Territories
+CountryCode = TF
+
+CountryName = Honduras
+CountryCode = HN
+
+CountryName = Jordan
+CountryCode = JO
+
+CountryName = Montenegro
+CountryCode = ME
+
+CountryName = Angola
+CountryCode = AO
+
+CountryName = Christmas Island
+CountryCode = CX
+
+CountryName = Congo (Kinshasa)
+CountryCode = CD
+
+CountryName = Uruguay
+CountryCode = UY
+
+CountryName = Venezuela (Bolivarian Republic)
+CountryCode = VE
+
+CountryName = Bouvet Island
+CountryCode = BV
+
+CountryName = Jersey
+CountryCode = JE
+
+CountryName = United States of America
+CountryCode = US
+
+CountryName = Malta
+CountryCode = MT
+
+CountryName = Poland
+CountryCode = PL
+
+CountryName = Afghanistan
+CountryCode = AF
+
+CountryName = Australia
+CountryCode = AU
+
+CountryName = Cameroon
+CountryCode = CM
+
+CountryName = Pakistan
+CountryCode = PK
+
+CountryName = Paraguay
+CountryCode = PY
+
+CountryName = Somalia
+CountryCode = SO
+
+CountryName = Heard and Mcdonald Islands
+CountryCode = HM
+
+CountryName = Oman
+CountryCode = OM
+
+CountryName = Micronesia, Federated States of
+CountryCode = FM
+
+CountryName = Saint-Barthélemy
+CountryCode = BL
+
+CountryName = Bulgaria
+CountryCode = BG
+
+CountryName = Denmark
+CountryCode = DK
+
+CountryName = Malaysia
+CountryCode = MY
+
+CountryName = Moldova
+CountryCode = MD
+
+CountryName = Montserrat
+CountryCode = MS
+
+CountryName = Bhutan
+CountryCode = BT
+
+CountryName = Guadeloupe
+CountryCode = GP
+
+CountryName = Congo (Brazzaville)
+CountryCode = CG
+
+CountryName = Iraq
+CountryCode = IQ
+
+CountryName = Ukraine
+CountryCode = UA
+
+CountryName = Viet Nam
+CountryCode = VN
+
+CountryName = Colombia
+CountryCode = CO
+
+CountryName = Macao, SAR China
+CountryCode = MO
+
+CountryName = Mongolia
+CountryCode = MN
+
+CountryName = Norway
+CountryCode = NO
+
+CountryName = Saint Kitts and Nevis
+CountryCode = KN
+
+CountryName = Albania
+CountryCode = AL
+
+CountryName = Yemen
+CountryCode = YE
+
+CountryName = India
+CountryCode = IN
+
+CountryName = Nepal
+CountryCode = NP
+
+CountryName = Turkey
+CountryCode = TR
+
+CountryName = US Minor Outlying Islands
+CountryCode = UM
+
+CountryName = Cook Islands
+CountryCode = CK
+
+CountryName = Gibraltar
+CountryCode = GI
+
+CountryName = Greece
+CountryCode = GR
+
+CountryName = Finland
+CountryCode = FI
+
+CountryName = Qatar
+CountryCode = QA
+
+CountryName = Uzbekistan
+CountryCode = UZ
+
+CountryName = Virgin Islands, US
+CountryCode = VI
+
+CountryName = Bahamas
+CountryCode = BS
+
+CountryName = Chile
+CountryCode = CL
+
+CountryName = Costa Rica
+CountryCode = CR
+
+CountryName = Uganda
+CountryCode = UG
+
+CountryName = Saint Lucia
+CountryCode = LC
+
+CountryName = Saint Pierre and Miquelon
+CountryCode = PM
+
+CountryName = Germany
+CountryCode = DE
+
+CountryName = Netherlands Antilles
+CountryCode = AN
+
+CountryName = New Caledonia
+CountryCode = NC
+
+CountryName = Lesotho
+CountryCode = LS
+
+CountryName = Georgia
+CountryCode = GE
+
+CountryName = Lao PDR
+CountryCode = LA
+
+CountryName = Maldives
+CountryCode = MV
+
+CountryName = Svalbard and Jan Mayen Islands
+CountryCode = SJ
+
+CountryName = Faroe Islands
+CountryCode = FO
+
+CountryName = France
+CountryCode = FR
+
+CountryName = Mali
+CountryCode = ML
+
+CountryName = Saint-Martin (French part)
+CountryCode = MF
+
+CountryName = Argentina
+CountryCode = AR
+
+CountryName = Cape Verde
+CountryCode = CV
+
+CountryName = Kazakhstan
+CountryCode = KZ
+
+CountryName = Bosnia and Herzegovina
+CountryCode = BA
+
+CountryName = Mauritius
+CountryCode = MU
+
+CountryName = Cambodia
+CountryCode = KH
+
+CountryName = Guam
+CountryCode = GU
+
+CountryName = Suriname
+CountryCode = SR
+
+CountryName = Ecuador
+CountryCode = EC
+
+CountryName = Guernsey
+CountryCode = GG
+
+CountryName = San Marino
+CountryCode = SM
+
+CountryName = Timor-Leste
+CountryCode = TL
+
+CountryName = Japan
+CountryCode = JP
+
+CountryName = Papua New Guinea
+CountryCode = PG
+
+CountryName = Puerto Rico
+CountryCode = PR
+
+CountryName = Spain
+CountryCode = ES
+
+CountryName = Côte d'Ivoire
+CountryCode = CI
+
+CountryName = Equatorial Guinea
+CountryCode = GQ
+
+CountryName = Mauritania
+CountryCode = MR
+
+CountryName = Slovenia
+CountryCode = SI
+
+CountryName = Bermuda
+CountryCode = BM
+
+CountryName = Indonesia
+CountryCode = ID
+
+CountryName = Réunion
+CountryCode = RE
+
+CountryName = Vanuatu
+CountryCode = VU
+
+CountryName = Bahrain
+CountryCode = BH
+
+CountryName = Peru
+CountryCode = PE
+
+CountryName = Bangladesh
+CountryCode = BD
+
+CountryName = China
+CountryCode = CN
+
+CountryName = Libya
+CountryCode = LY
+
+CountryName = Swaziland
+CountryCode = SZ
+
+CountryName = Andorra
+CountryCode = AD
+
+CountryName = British Indian Ocean Territory
+CountryCode = IO
+
+CountryName = Northern Mariana Islands
+CountryCode = MP
+
+CountryName = Barbados
+CountryCode = BB
+
+CountryName = Syrian Arab Republic (Syria)
+CountryCode = SY
+
+CountryName = Saint Vincent and Grenadines
+CountryCode = VC
+
+CountryName = Senegal
+CountryCode = SN
+
+CountryName = Fiji
+CountryCode = FJ
+
+CountryName = Iceland
+CountryCode = IS
+
+CountryName = Isle of Man
+CountryCode = IM
+
+CountryName = Norfolk Island
+CountryCode = NF
+
+CountryName = Saudi Arabia
+CountryCode = SA
+
+CountryName = Algeria
+CountryCode = DZ
+
+CountryName = Armenia
+CountryCode = AM
+
+CountryName = British Virgin Islands
+CountryCode = VG
+
+CountryName = Sri Lanka
+CountryCode = LK
+
+CountryName = Malawi
+CountryCode = MW
+
+CountryName = Mexico
+CountryCode = MX
+
+CountryName = Palau
+CountryCode = PW
+
+CountryName = Wallis and Futuna Islands
+CountryCode = WF
+
+CountryName = Brunei Darussalam
+CountryCode = BN
+
+CountryName = Eritrea
+CountryCode = ER
+
+CountryName = Liberia
+CountryCode = LR
+
+CountryName = New Zealand
+CountryCode = NZ
+
+CountryName = Gambia
+CountryCode = GM
+
+CountryName = Mozambique
+CountryCode = MZ
+
+CountryName = Hong Kong, SAR China
+CountryCode = HK
+
+CountryName = South Africa
+CountryCode = ZA
+
+CountryName = Switzerland
+CountryCode = CH
+
+CountryName = French Guiana
+CountryCode = GF
+
+CountryName = Antigua and Barbuda
+CountryCode = AG
+
+CountryName = Italy
+CountryCode = IT
+
+CountryName = Kenya
+CountryCode = KE
+
+CountryName = Estonia
+CountryCode = EE
+
+CountryName = Korea (North)
+CountryCode = KP
+
+CountryName = ALA Aland Islands
+CountryCode = AX
+
+CountryName = Belarus
+CountryCode = BY
+
+CountryName = Belize
+CountryCode = BZ
+
+CountryName = Martinique
+CountryCode = MQ
+
+CountryName = Russian Federation
+CountryCode = RU
+
+CountryName = Dominica
+CountryCode = DM
+
+CountryName = Holy See (Vatican City State)
+CountryCode = VA
+
+CountryName = Kuwait
+CountryCode = KW
+
+CountryName = Serbia
+CountryCode = RS
+
+CountryName = Botswana
+CountryCode = BW
+
+CountryName = Ireland
+CountryCode = IE
+
+CountryName = Cayman Islands
+CountryCode = KY
+
+CountryName = Greenland
+CountryCode = GL
+
+CountryName = Guyana
+CountryCode = GY
+
+CountryName = Tuvalu
+CountryCode = TV
+
+CountryName = Western Sahara
+CountryCode = EH
+
+CountryName = Grenada
+CountryCode = GD
+
+CountryName = Sweden
+CountryCode = SE
+
+CountryName = American Samoa
+CountryCode = AS
+
+CountryName = Dominican Republic
+CountryCode = DO
+
+CountryName = South Georgia and the South Sandwich Islands
+CountryCode = GS
+
+CountryName = Benin
+CountryCode = BJ
+
+CountryName = Kiribati
+CountryCode = KI
+
+CountryName = Lithuania
+CountryCode = LT
+
+CountryName = Jamaica
+CountryCode = JM
+
+CountryName = Tajikistan
+CountryCode = TJ
+
+CountryName = Tunisia
+CountryCode = TN
+
+CountryName = Djibouti
+CountryCode = DJ
+
+CountryName = French Polynesia
+CountryCode = PF
+
+CountryName = Liechtenstein
+CountryCode = LI
+
+CountryName = Azerbaijan
+CountryCode = AZ
+
+CountryName = Anguilla
+CountryCode = AI
+
+CountryName = Haiti
+CountryCode = HT
+
+CountryName = Hungary
+CountryCode = HU
+
+CountryName = Central African Republic
+CountryCode = CF
+
+CountryName = United Kingdom
+CountryCode = GB
+
+CountryName = Brazil
+CountryCode = BR
+
+CountryName = Burundi
+CountryCode = BI
+
+CountryName = Kyrgyzstan
+CountryCode = KG
+
+CountryName = Republic of Kosovo
+CountryCode = XK
+
+CountryName = Tanzania, United Republic of
+CountryCode = TZ
+
+CountryName = Romania
+CountryCode = RO
+
+CountryName = Turks and Caicos Islands
+CountryCode = TC
+
+CountryName = Ethiopia
+CountryCode = ET
+
+CountryName = Niger
+CountryCode = NE
+
+CountryName = Palestinian Territory
+CountryCode = PS
+
+CountryName = Turkmenistan
+CountryCode = TM
+
+CountryName = Austria
+CountryCode = AT
+
+CountryName = Israel
+CountryCode = IL
+
+CountryName = Myanmar
+CountryCode = MM
+
+CountryName = Nicaragua
+CountryCode = NI
+
+CountryName = Thailand
+CountryCode = TH
+
+CountryName = Guinea
+CountryCode = GN
+
+CountryName = Morocco
+CountryCode = MA
+
+CountryName = Nigeria
+CountryCode = NG
+
+CountryName = Panama
+CountryCode = PA
+
+CountryName = Sao Tome and Principe
+CountryCode = ST
+
+CountryName = Singapore
+CountryCode = SG
+
+CountryName = Antarctica
+CountryCode = AQ
+
+CountryName = Mayotte
+CountryCode = YT
+
+CountryName = Solomon Islands
+CountryCode = SB
+
+CountryName = Tokelau
+CountryCode = TK
+
+CountryName = United Arab Emirates
+CountryCode = AE
+
+CountryName = Netherlands
+CountryCode = NL
+
+CountryName = South Sudan
+CountryCode = SS
+
+CountryName = Zambia
+CountryCode = ZM
+
+CountryName = Egypt
+CountryCode = EG
+
+CountryName = Marshall Islands
+CountryCode = MH
+
+CountryName = Monaco
+CountryCode = MC
+
+CountryName = Burkina Faso
+CountryCode = BF
+
+CountryName = Sudan
+CountryCode = SD
+
+CountryName = Falkland Islands (Malvinas)
+CountryCode = FK
+
+CountryName = Trinidad and Tobago
+CountryCode = TT
+
+CountryName = Tonga
+CountryCode = TO
+
+CountryName = Czech Republic
+CountryCode = CZ
+
+CountryName = Saint Helena
+CountryCode = SH
+
+CountryName = Cuba
+CountryCode = CU
+
+CountryName = Pitcairn
+CountryCode = PN
+
+CountryName = Slovakia
+CountryCode = SK
+
+CountryName = Comoros
+CountryCode = KM
+
+CountryName = Guinea-Bissau
+CountryCode = GW
+
+CountryName = Lebanon
+CountryCode = LB
+
+CountryName = Sierra Leone
+CountryCode = SL
+
+CountryName = Taiwan, Republic of China
+CountryCode = TW
+
+CountryName = Canada
+CountryCode = CA
+
