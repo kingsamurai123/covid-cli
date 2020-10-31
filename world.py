@@ -15,9 +15,9 @@ NewRecovered = r['Global']['NewRecovered']
 NewDeaths = r['Global']['NewDeaths']
 TotalRecovered = r['Global']['TotalRecovered']
 TotalConfirmed = r['Global']['TotalConfirmed']
-
-print("COVID CASES AROUND THE WORLD: \nTotalCases     = {} \nTotalDeaths    = {} \nTotalRecovered = {} \nTodayCases     = {} \nTodayRecovered = {} \nTodayDeaths    = {}".format(
-	TotalConfirmed, TotalDeaths, TotalRecovered, NewConfirmed, NewRecovered, NewDeaths
+Date = r['Date']
+print("COVID CASES AROUND THE WORLD: {} \nTotalCases     = {} \nTotalDeaths    = {} \nTotalRecovered = {} \nTodayCases     = {} \nTodayRecovered = {} \nTodayDeaths    = {}".format(
+	Date, TotalConfirmed, TotalDeaths, TotalRecovered, NewConfirmed, NewRecovered, NewDeaths
 	)
 )
 	# "\nTodayRecovered = "+NewRecovered+"\n")
